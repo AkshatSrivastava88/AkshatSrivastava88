@@ -5,13 +5,17 @@
 
 - 🔭 I’m currently working on **Automated Campus Wheelchair**
 
+- 🌱 I’m currently learning **ROS**
+
 - 👨‍💻 All of my projects are available at [https://github.com/AkshatSrivastava88?tab=repositories](https://github.com/AkshatSrivastava88?tab=repositories)
+
+- 📫 How to reach me **akshat.srivastava.btech2021@sitpune.edu.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alphaakshat18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alphaakshat18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akshat srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat srivastava" height="30" width="40" /></a>
-<a href="https://fb.com/akshat srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akshat srivastava" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshat-srivastava-8b6721226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshat-srivastava-8b6721226/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/akshat.charlie.9795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/akshat.charlie.9795" height="30" width="40" /></a>
 <a href="https://instagram.com/akshat.srivastava.20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshat.srivastava.20" height="30" width="40" /></a>
 </p>
 
