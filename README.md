@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AkshatSrivastava88?tab=repositories](https://github.com/AkshatSrivastava88?tab=repositories)
 
-- 📫 How to reach me **akshat.srivastava.btech2021@sitpune.edu.in**
+- 📫 How to reach me **akshatsrivastava8840@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
